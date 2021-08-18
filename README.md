@@ -161,7 +161,7 @@ Unsupported config option for db: 'enviroment'
 O processo de terminal "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -Command docker-compose -f "docker-compose.yml" up -d --build" foi terminado com o código de saída: 1.
 O terminal será reutilizado por tarefas, pressione qualquer tecla para fechá-lo.
 ```
-
+----------------------------------------------------
 
 ## Erros
 
