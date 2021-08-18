@@ -153,6 +153,7 @@ Agora para utilizar as funcionalidades da extensão do Docker instalada no VS Co
 Quando damos o "Compose Up" são baixadas as imagens e fica tudo local, isso significa que quando tentarmos recriar a imagem, ele só fará o download uma vez e baixará novamente no caso de alguma imagem ter sido atualizada.
 Para visualizar isso clique no ícone da extensão do docker localizada na barra lateral do seu Visual Studio Code.
 
+PAREI AQUI
 
 ```
 > Executing task: docker-compose -f "docker-compose.yml" up -d --build <
@@ -161,6 +162,7 @@ Unsupported config option for db: 'enviroment'
 O processo de terminal "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -Command docker-compose -f "docker-compose.yml" up -d --build" foi terminado com o código de saída: 1.
 O terminal será reutilizado por tarefas, pressione qualquer tecla para fechá-lo.
 ```
+
 ----------------------------------------------------
 
 ## Erros
