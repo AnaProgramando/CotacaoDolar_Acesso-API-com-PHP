@@ -147,15 +147,20 @@ db:
 		- MYSQL_DATABASE=mydb
 ```
 
-## Extensão
+## Usando a Extensão do Docker
 
 Agora para utilizar as funcionalidades da extensão do Docker instalada no VS Code basta clicar em cima do código no arquivo docker-compose com o botão direito do mouse e selecionar a opção "Compose Up", logo será aberto um Shell, rodará os comandos, irá baixar as imagens disponíveis no Docker Hub.
 Quando damos o "Compose Up" são baixadas as imagens e fica tudo local, isso significa que quando tentarmos recriar a imagem, ele só fará o download uma vez e baixará novamente no caso de alguma imagem ter sido atualizada.
 Para visualizar isso clique no ícone da extensão do docker localizada na barra lateral do seu Visual Studio Code.
 
 
-
-
+```
+> Executing task: docker-compose -f "docker-compose.yml" up -d --build <
+ERROR: The Compose file '.\docker-compose.yml' is invalid because:
+Unsupported config option for db: 'enviroment'
+O processo de terminal "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -Command docker-compose -f "docker-compose.yml" up -d --build" foi terminado com o código de saída: 1.
+O terminal será reutilizado por tarefas, pressione qualquer tecla para fechá-lo.
+```
 
 
 ## Erros
