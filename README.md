@@ -179,7 +179,7 @@ Unsupported config option for texto: 'texto'
 
 ---------------------------------------------------------------------
 
-PEQUISAR SOBRE COMO INSTALAR E USAR O DOCKER
+! INSTALAR E USAR O DOCKER
 
 Fontes:
 Código Fonte TV - Ambientes Back-End com Docker + VS Code // Mão no Código #3: https://youtu.be/97jWpWp4Pnc
@@ -187,4 +187,4 @@ Código Fonte TV - Ambientes Back-End com Docker + VS Code // Mão no Código #3
 
 Código Fonte TV - Aprenda a Usar APIs // Mão no Código #7: https://youtu.be/lc0VOosnlAc
 	7:48
-![image](https://user-images.githubusercontent.com/31097110/129889702-22c82982-0747-44e3-88f9-816d90ff6646.png)
+
