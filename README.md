@@ -7,6 +7,7 @@
 
 <p align="center">
  <a href="#-welcome">Welcome</a> |
+ <a href="#-features">Features</a> | 
  <a href="#criando-a-chave-para-autentica%C3%A7%C3%A3o">Criando a chave para autenticação</a> | 
  <a href="#estruturando-o-diret%C3%B3rio">Estruturando o diretório</a> | 
  <a href="#rodando-o-php-com-docker">Rodando o PHP com Docker</a> | 
@@ -32,6 +33,18 @@ Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender
 
 😉 Se tiver qualquer dúvida, me contate
 
+
+## ✅ Features
+
+- [X] Chave para autenticação
+- [X] Estrutura de diretório
+- [X] PHP com Docker
+- [X] Container php
+- [X] Container db
+- [X] Conexão entre Containers
+- [X] Extensão do Docker
+
+Progress...
 
 ## Criando a chave para autenticação
 
@@ -240,7 +253,7 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 
 <br><br>
-[⬆ Voltar ao top](https://github.com/AnaProgramando/API_Rest_dotNET_operacoes-essenciais-verbos-HTTP/blob/main/README.md#) <br>
+[⬆ Voltar ao top](https://github.com/AnaProgramando/CotacaoDolar_Acesso-API-com-PHP/blob/main/README.md#) <br>
 
 
  <div>
