@@ -1,12 +1,11 @@
-![banner_Acesso-API-com-PHP](https://github.com/AnaProgramando/CotacaoDolar_Acesso-API-com-PHP/blob/5831dd389a001fdeb1a2efdf573f5905d79ec4fc/banner_cotacao_php.png)
+![banner_Acesso-API-com-PHP](https://github.com/__________)
 ----
 
-<img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=FFA500&style=for-the-badge"/>
-
-<p align="center"> O tutorial desse projeto em vídeo está disponível no canal <a href="https://www.youtube.com/user/codigofontetv" > Código Fonte TV </a> </p>
+<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center">
- <a href="#-welcome">Welcome</a> |
+ <a href="#-welcome">Welcome</a> | 
+ <a href="______">___________</a> | 
  <a href="#-features">Features</a> | 
  <a href="#criando-a-chave-para-autentica%C3%A7%C3%A3o">Criando a chave para autenticação</a> | 
  <a href="#estruturando-o-diret%C3%B3rio">Estruturando o diretório</a> | 
@@ -16,17 +15,20 @@
  <a href="#conectando-containers">Conectando Containers</a> | 
  <a href="#usando-a-extens%C3%A3o-do-docker">Usando a Extensão do Docker</a> | 
  <a href="#-erros-poss%C3%ADveis">Erros Possíveis</a> | 
- <a href="#-c%C3%B3digo-em-constru%C3%A7%C3%A3o-">Código em construção</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
- <a href="#%EF%B8%8F-autora">Autora</a>
+ <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
 </p>
 
 # 🤗 Welcome
 
 Olá, seja muito bem vinda(o)! 
 
-Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender PHP, por isso os exercícios começam bem simples e vão dificultando aos poucos para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades, e também coloquei alguns comentários para facilitar o entendimento.
+Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender PHP#, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
+
+<br>
+
+## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> Acesso a API com PHP - Cotações do Dólar com PHP
 
 📚 Aproveite o código desse exercício
 
@@ -34,6 +36,7 @@ Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender
 
 😉 Se tiver qualquer dúvida, me contate
 
+<br>
 
 ## ✅ Features
 
@@ -44,14 +47,17 @@ Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender
 - [X] Container db
 - [X] Conexão entre Containers
 - [X] Extensão do Docker
+- [ ] Progress...
 
-Progress...
+<br>
 
 ## Criando a chave para autenticação
 
 - Criar cadastro no site da HG Brasil: https://hgbrasil.com/
 - Crie uma chave, nomeie como preferir, selecione o tipo da chave como uso interno (no servidor ou aplicativo mobile) e clique em criar.
 - Vá em chaves para verificar se funcionou.
+
+<br>
 
 ## Estruturando o diretório
 
@@ -75,6 +81,7 @@ Explicação:
 
 - Utilize o atalho para abrir o Visual Studio Code digitando "code ." 
 
+<br>
 
 ## Rodando o PHP com Docker
 
@@ -86,6 +93,7 @@ Explicação:
 
 ###### 💬 Obs: Quando trabalhamos com o Docker é possível usar apenas o terminal, mas se no momento você não quiser aprender os comandos do Docker, você pode instalar a extensão do Docker no VS Code, assim você poderá utilizar o Docker pela própria interface do VS.
 
+<br>
 
 ## Criando um Container - php
 
@@ -142,6 +150,8 @@ php:
 	- ./www:/var/www/html
 ```
 
+<br>
+
 ## Criando um Container - db
 
 Realize os seguintes passos no arquivo docker-compose.yml:
@@ -161,6 +171,8 @@ db:
 	- MYSQL_ROOT_PASSWORD=myrootpass
 	- MYSQL_DATABASE=mydb
 ```
+
+<br>
 
 ## Conectando Containers
 
@@ -193,9 +205,13 @@ db:
 		- MYSQL_DATABASE=mydb
 ```
 
+<br>
+
 ## Usando a Extensão do Docker
 
 Para utilizar as funcionalidades da extensão do Docker instalada no VS Code basta clicar em cima do código no arquivo docker-compose com o botão direito do mouse e selecionar a opção "Compose Up", logo será aberto um Shell, os comandos irão rodar, as imagens disponíveis no Docker Hub serão baixadas e ficará tudo local, isso significa que quando tentarmos recriar a imagem, ele só fará o download novamente no caso de alguma imagem ter sido atualizada, e para visualizar basta clicar no ícone da extensão do docker localizado na barra lateral do Visual Studio Code.
+
+<br>
 
 ## ‼ Erros Possíveis
 
@@ -216,8 +232,11 @@ ERROR: The Compose file '.\docker-compose.yml' is invalid because:
 Unsupported config option for texto: 'texto'
 ```
 
+<br>
 
-## 🚧 Código em construção 🚧
+## ❓ Dúvidas
+
+🚧 Código em construção 🚧
 
 <div>
   <img align="right" alt="Computador Carregando" width="200px" src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif"/>
@@ -229,17 +248,9 @@ Se tiver qualquer dúvida, interaja aqui:
   * Compartilhe suas ideias
   * E interaja sobre o assunto
 
-😉Lembre-se de que esta é uma comunidade que construímos juntos 💪.
+😉 Lembre-se de que esta é uma comunidade que construímos juntos 💪.
 
-## ❓ Dúvidas
-
-Qualquer dúvida, interaja aqui:
-  * Faça perguntas
-  * Dê sugestões de melhoria para o projeto
-  * Compartilhe suas ideias
-  * E interaja sobre o assunto
-
-😉Lembre-se de que esta é uma comunidade que construímos juntos 💪.
+<br>
 
 ## ✉️ Contatos
 
@@ -248,25 +259,26 @@ Se precisar de ajuda, entre em contato comigo 😉
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
 [<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
 [<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
+
+<br>
 <br>
 
-
-## 🙋‍♀️ Autora
+## 🙋‍♀️ Desenvolvedora
 
 <div>
   <img align="left" alt="Ana Valentim" width="100px" src="https://avatars.githubusercontent.com/u/31097110?v=4"/>
 </div>
 
 <br>
-✏️ Feito com ❤️ e PHP por <a href="https://github.com/AnaProgramando">Ana Valentim</a>.
+✏️ Feito com ❤️ e C# por <a href="https://github.com/AnaProgramando">Ana Valentim</a>.
 
 💙 Se você gostou desse projeto, dê uma ⭐ e compartilhe!
 
-
 <br><br>
-[⬆ Voltar ao top](https://github.com/AnaProgramando/CotacaoDolar_Acesso-API-com-PHP/blob/main/README.md#) <br>
+[<img align="right" alt="Voltar ao topo" width="100px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/AnaProgramando/_________/blob/main/README.md#)
 
+<br>
 
- <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CotacaoDolar_Acesso-API-com-PHP/blob/60a1e2a453dc3f954b1a1d596b8b4ccd8a527875/e.gif"/>
+<div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="____________"/>
 </div>
