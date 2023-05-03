@@ -1,11 +1,11 @@
-![banner_Acesso-API-com-PHP](https://github.com/__________)
+![banner_Acesso-API-com-PHP](https://github.com/AnaProgramando/CotacaoDolar_Acesso-API-com-PHP/blob/a594d5869685b491d16a6d76781f83799d3cace1/banner_cotacao_php.png)
 ----
 
-<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=FFA500&style=for-the-badge"/>
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
- <a href="______">___________</a> | 
+ <a href="#-acesso-a-api-com-php---cota%C3%A7%C3%B5es-do-d%C3%B3lar-com-php">Acesso a API com PHP</a> | 
  <a href="#-features">Features</a> | 
  <a href="#criando-a-chave-para-autentica%C3%A7%C3%A3o">Criando a chave para autenticação</a> | 
  <a href="#estruturando-o-diret%C3%B3rio">Estruturando o diretório</a> | 
@@ -24,11 +24,11 @@
 
 Olá, seja muito bem vinda(o)! 
 
-Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender PHP#, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
+Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender PHP, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
 
 <br>
 
-## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> Acesso a API com PHP - Cotações do Dólar com PHP
+## <img align="center" alt="Ana-PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> Acesso a API com PHP - Cotações do Dólar com PHP
 
 📚 Aproveite o código desse exercício
 
@@ -275,10 +275,10 @@ Se precisar de ajuda, entre em contato comigo 😉
 💙 Se você gostou desse projeto, dê uma ⭐ e compartilhe!
 
 <br><br>
-[<img align="right" alt="Voltar ao topo" width="100px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/AnaProgramando/_________/blob/main/README.md#)
+[<img align="right" alt="Voltar ao topo" width="100px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/AnaProgramando/CotacaoDolar_Acesso-API-com-PHP/blob/main/README.md#)
 
 <br>
 
 <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="____________"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CotacaoDolar_Acesso-API-com-PHP/blob/a594d5869685b491d16a6d76781f83799d3cace1/e.gif"/>
 </div>
