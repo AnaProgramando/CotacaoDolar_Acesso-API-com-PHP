@@ -24,7 +24,11 @@
 
 Olá, seja muito bem vinda(o)! 
 
+Nesse projeto você verá como obter informações sobre cotações do Dólar com PHP, Chave para autenticação, Estrutura de diretórios, PHP com Docker, Container php, Container db, Conexão entre Containers, e Extensão do Docker.
+
 Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender PHP, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
+
+<p align="center"> O tutorial desse projeto em vídeo está disponível no canal <a href="https://www.youtube.com/user/codigofontetv" > Código Fonte TV </a> </p>
 
 <br>
 
